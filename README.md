@@ -1,8 +1,4 @@
-GitHub repository description highlighting my experience as a Content Distribution, Community & Social Media Manager:
-
-Social Media & Community Management Portfolio
-
-This repository showcases professional samples of Ekene's work in developing integrated social media, community and content strategies to effectively promote brands and engage targeted communities.
+This repository showcases professional samples of My work in developing integrated social media, community and content strategies to effectively promote brands and engage targeted communities.
 
 Featured Projects:
 
@@ -23,4 +19,4 @@ Experience Highlights:
 - Developing full-funnel content and messaging frameworks 
 - Campaign planning focused on audience analysis and storytelling
   
-Please browse the writing samples, visual assets and campaign data within this portfolio. As always, feedback and community contributions welcomed!
+
