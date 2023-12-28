@@ -1,5 +1,3 @@
-This repository showcases professional samples of My work in developing integrated social media, community and content strategies to effectively promote brands and engage targeted communities.
-
 # Featured Projects:
 
 # Commons Stack Launch Campaign 
